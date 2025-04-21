@@ -1,4 +1,11 @@
-## Hi there 👋 I am Nikita
+## Greetings! I am Nikita :)
+
+##### A little about me:
+- I am persuing a bachelor's degree in Computer Science at a University 🎓🏛️
+- I am currently working on a few personal projects
+- I am deeply passionate about vim
+- I am an eager lerner, currently I am learning ♦️ ruby and ruby on rails 
+- My [LinkedIn](https://www.linkedin.com/in/nikita-kroshko-computer-science/) feel free to reach out and chat 😊 
 
 <!--
 **NikitaKroshko/NikitaKroshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
