@@ -1,7 +1,7 @@
 ## Greetings! I am Nikita :)
 
 ##### A little about me:
-- I am persuing a bachelor's degree in Computer Science at a University 🎓🏛️
+- I am persuing a bachelor's degree in Computer Science at the University of Manchester 🎓🏛️
 - I am currently working on a few personal projects
 - I am deeply passionate about vim
 - I am an eager lerner, currently I am learning ♦️ ruby and ruby on rails 
